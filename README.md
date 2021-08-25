@@ -5,7 +5,7 @@
 -  um site de um petshop em wordpress:
 -  sites que ja fiz: 
 -  esse foi para um trablaho de ingles que tinhamos que fazer um blog:https://igorrzinho.github.io/englishBlog/
--  esse é uma calculadora que fiz quando estava aprendendo javaScript:
+- .calculator. esse é uma calculadora que fiz quando estava aprendendo javaScript:https://igorrzinho.github.io/calculadora/
 - 💬 fale comigo preenchendo esse formulario:
 
 
