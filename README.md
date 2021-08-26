@@ -1,4 +1,5 @@
 sou <b>Igor De Jesus Silva</b>
+ Pronouns: ela/dela
 - 👨‍🎓 eu estou aprendendo JavaScript
 - 👥 estou colaborando com os seguintes trabalhos escolares:
  um site onde temos que usar bootstrap para faze-lo com estilo livro digital https://gruposinterdisciplina.github.io/interdiciplina/ <br>
@@ -8,10 +9,10 @@ sou <b>Igor De Jesus Silva</b>
 <br>:abacus: esse é uma calculadora que fiz quando estava aprendendo javaScript:https://igorrzinho.github.io/calculadora/
 - 💬 fale comigo preenchendo esse formulario:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="igor-gif" src="">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="igor" src="">
 </div>
 <br>
 <a href="https://www.instagram.com/s_igo.r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
