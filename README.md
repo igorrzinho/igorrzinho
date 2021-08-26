@@ -1,4 +1,4 @@
-sou <b>Igor De Jesus Silva</b><br>
+sou <b> 💠 Igor De Jesus Silva</b><br>
  :upside_down_face:  Pronomes: ele/dele<br>
 - 👨‍🎓 eu estou aprendendo JavaScript
 - 👥 estou colaborando com os seguintes trabalhos escolares:<br>
