@@ -1,7 +1,7 @@
 sou <b>Igor De Jesus Silva</b><br>
  :upside_down_face:  Pronomes: ele/dele<br>
 - 👨‍🎓 eu estou aprendendo JavaScript
-- 👥 estou colaborando com os seguintes trabalhos escolares:
+- 👥 estou colaborando com os seguintes trabalhos escolares:<br>
  um site onde temos que usar bootstrap para faze-lo com estilo livro digital https://gruposinterdisciplina.github.io/interdiciplina/ <br>
  um site de um petshop em wordpress:
 -  sites que ja fiz: 
