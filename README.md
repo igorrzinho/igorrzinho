@@ -1,4 +1,4 @@
-sou <b> 💎Igor💎 💎De💎 💎Jesus💎 💎Silva💎</b><br>
+sou <b> 💎Igo De Jesus Silva💎</b><br>
  :upside_down_face:  Pronomes: ele/dele<br>
 - 🎓 estudando na ETEC Maria Cristina Medeiros<Br>
 - 👨‍💻 aprendendo react<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
