@@ -9,10 +9,9 @@ sou <b> 💎Igor De Jesus Silva💎</b><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">  
+  <img align="rigth" alt="igor" src="https://cdn.discordapp.com/attachments/730162373003837573/880543471763591259/gifIgor.gif" width="300px">
 </div>
-   <img align="rigth" alt="igor" src="https://cdn.discordapp.com/attachments/730162373003837573/880543471763591259/gifIgor.gif" width="300px">
-<br>
-<div><a href="https://www.instagram.com/s_igo.r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/s_igo.r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>--></div>
  
  ![Snake animation](https://raw.githubusercontent.com/igorrzinho/igorrzinho/output/github-contribution-grid-snake.svg)
