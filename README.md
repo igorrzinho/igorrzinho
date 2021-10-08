@@ -1,7 +1,6 @@
-sou <b> 💎Igor De Jesus Silva💎</b><br>
- :upside_down_face:  Pronomes: ele/dele<br>
-- 🎓 estudando na ETEC Maria Cristina Medeiros<Br>
-- 👨‍💻 aprendendo react<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+## I am  <b> 💎Igor De Jesus Silva💎</b><br>
+*  🎓 Studying at ETEC Maria Cristina Medeiros. 
+* 👨‍💻 Learning react<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <!--<div style="cursor:pointer;"><a herf="#">projetos</a></div>-->
  <div style="display: inline"><br>
   <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +12,7 @@ sou <b> 💎Igor De Jesus Silva💎</b><br>
  
  ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrzinho&theme=blue-green)
  
-<div style="display :inline;"> <br>
+<div style="display :block;"> <br>
 <a href="https://www.instagram.com/s_igo.r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 <a href="https://www.linkedin.com/in/igor-de-jesus-silva-066552215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
