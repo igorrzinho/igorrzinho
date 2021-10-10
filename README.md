@@ -20,4 +20,4 @@
 <a herf="mailto:sigorcontato@gmail.com?subject=subject text" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/igorrzinho/igorrzinho/blob/output/github-contribution-grid-snake.svg)
