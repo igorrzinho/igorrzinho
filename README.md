@@ -1,22 +1,59 @@
-## I am  <b> 💎Igor De Jesus Silva💎</b><br>
-*  🎓 Studying at ETEC Maria Cristina Medeiros. 
-* 👨‍💻 Learning react<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--<div style="cursor:pointer;"><a herf="#">projetos</a></div>-->
- <div style="display: inline"><br>
-  <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">   
+## olá, me chamo Igor de Jesus Silva
+
+*  🎓 curso o segundo ano do ensino medio com curso de informartica para internet na ETEC Maria Cristina Medeiros. 
+* 👨‍💻 atualmente estudo react js<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e mysql <img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+ 
+### abaixo voce pode ver quais tecnologias eu ja tenho conhecimento sobre
+
+
+ <div style="display: inline">
+  <img align="center" alt="Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="wordprees" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">   <img align="left" alt="wordprees" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img align="center" alt="wordprees" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <br><br>
 </div> 
+  
+___ 
+  
+### esses são os aplicativos que estou acostumado a usar no meu dia a dia 
+
+
+ <div style="display: inline">
+  <img align="left" alt="gimp" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
+  <img align="left" alt="inkscape" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+  <img align="left" alt="vscode" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="left" alt="bootstrap" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
+  <img align="left" alt="wordprees" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/> 
+</div>
+<br><br><br><br><br>
+
+ ___ 
  
- ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrzinho&theme=blue-green)
+<div style="display:block;">
+ <h1>
+  veja algumas das linguagens que mais uso no meu github</h1>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrzinho&theme=tokyonight">
+ <h3>aqui aparece as mais comuns no meu git hub, mas os projetos com mysql e react nao coloco no meu github</h3>
+</div>
+
+ ___ 
  
-<div style="display :block;"> <br>
+ ## já aproveita e me siga nas redes sociais abaixo:
+ <div style="display: flex">
 <a href="https://www.instagram.com/s_igorzinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+
 <a href="https://www.linkedin.com/in/igor-de-jesus-silva-066552215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a herf="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ 
+ <!-- <a herf="https://www.youtube.com/channel/UCXYjQXKOxM-Bro76TgAaXXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>-->
+ </div>
+ 
+ ___
+ ## entre em contato comigo pelo meu:
+ <div>
+ <a herf="https://t.me/S_igorrzinho" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 <a herf="mailto:sigorcontato@gmail.com?subject=subject text" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  
