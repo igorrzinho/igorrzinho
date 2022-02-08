@@ -7,12 +7,12 @@
 
 
  <div style="display: inline">
-  <img align="center" alt="Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="wordprees" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">   <img align="left" alt="wordprees" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  <img align="center" alt="wordprees" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <br><br>
+  <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="wordprees" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">   <img align="left" alt="wordprees" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img align="center" alt="wordprees" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <br><br>
 </div> 
   
 ___ 
@@ -21,13 +21,12 @@ ___
 
 
  <div style="display: inline">
-  <img align="left" alt="gimp" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
-  <img align="left" alt="inkscape" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
-  <img align="left" alt="vscode" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="left" alt="bootstrap" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
-  <img align="left" alt="wordprees" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/> 
+  <img align="left" alt="gimp" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
+  <img align="left" alt="inkscape" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
+  <img align="left" alt="vscode" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="left" alt="bootstrap" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"> 
 </div>
-<br><br><br><br><br>
+<br>
 
  ___ 
  
