@@ -1,7 +1,7 @@
 ## olá, me chamo Igor de Jesus Silva
 
 *  🎓 curso o segundo ano do ensino medio com curso de informartica para internet na ETEC Maria Cristina Medeiros. 
-* 👨‍💻 atualmente estudo react js<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> e mysql <img align="center" alt="HTML" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+* 👨‍💻 atualmente estudo mysql <img align="center" alt="HTML" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
  
 ### abaixo voce pode ver quais tecnologias eu ja tenho conhecimento sobre
 
