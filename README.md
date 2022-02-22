@@ -17,19 +17,7 @@
 </div> 
   
 ___ 
-  
-### esses são os aplicativos que estou acostumado a usar no meu dia a dia 
-
-
- <div style="display: inline">
-  <img align="left" alt="gimp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
-  <img align="left" alt="inkscape" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" />
-  <img align="left" alt="vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="left" alt="bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"> 
-</div>
-<br>
-
- ___ 
+ 
  
 <div style="display:block;">
  <h1>
