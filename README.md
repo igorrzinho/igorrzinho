@@ -29,7 +29,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### estudando no momento: 
-![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;</div>
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;</div>
 
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorrzinho&theme=black-ice&hide_border=true&stroke=000&background=444&ring=888&fire=eee&currStreakLabel=fff" alt="igorrzinho" /></div>
